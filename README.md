@@ -10,5 +10,5 @@ Pour ce projet j'utilise le matériel suivant:
 - Le logiciel officiel Arduino IDE.
 - Le programme de création d'application de google MIT app inventor 2.
 
-A l'avenir je compte y ajouter un module d'écran tft tactile pour avoir un menu de selection, où y sera inscrit un graph des températures de la journée, un affichage des différents types de capteurs installés.
+A l'avenir je compte y ajouter un module d'écran tft tactile pour avoir un menu de sélection, où y sera inscrit un graph des températures de la journée, un affichage des différents types de capteurs installés.
 Au final, je voudrais que cela devienne une vraie station météo pour la maison, reliée à un téléphone android.
